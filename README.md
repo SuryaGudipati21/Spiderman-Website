@@ -5,7 +5,7 @@ It provides details about Spider-Man, including his background, powers, and imag
 ---
 
 Here is a screen shot of the website built
-![Website Screenshot](screenshot.png)
+![Website Screenshot](Screenshot.png)
 
 ---
 
