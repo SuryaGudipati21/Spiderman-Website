@@ -17,7 +17,7 @@ Here is a screen shot of the website built
 
 ---
 
-# Implimentations guide
+# Implementation Guide
 See [implementation_guide.md](implementation_guide.md) for how to run the project.
 
 ---
@@ -28,5 +28,5 @@ See [implementation_guide.md](implementation_guide.md) for how to run the projec
 
 ---
 
-# Author
+## Author
 Surya Gudipati
